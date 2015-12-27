@@ -2,3 +2,4 @@ this is a test file
 Create a new branch dev
 Create a new branch is quick and simple
 Git branch when merge use fast forward it will lose branch info
+Test Branch stash
